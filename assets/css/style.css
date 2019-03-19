@@ -1,0 +1,99 @@
+.btn-outline-dark {
+    animation:
+    colorchange 10s; 
+    -webkit-animation: 
+    colorchange 10s;
+    animation-iteration-count: infinite; 
+    animation-timing-function: ease-out;
+}
+
+@keyframes 
+colorchange 
+    {   
+       
+        0% {background: #3cbd17;}
+        25% {background: #66b42c;}
+        
+        /* 30% {background: #347998;}
+        40% {background: #0e6179;}
+        50% {background:#0e6179;} */
+        
+        /* 70% {background: #3d0760;} */
+        35% {background:#5d9808;}
+        50% {background: #2f8418;}
+        /* 90% {background: #bc708b;}
+        100% {background: #cf4f74;} */
+        60% {background: #0a5d25;}
+        70% {background: #2f8418;}
+        80% {background:#5d9808;}
+        90% {background: #66b42c;}
+        100% {background: #3cbd17;}
+}
+
+@-webkit-keyframes
+colorchange {
+    0% {background: #3cbd17;}
+        25% {background: #66b42c;}
+        
+        /* 30% {background: #347998;}
+        40% {background: #0e6179;}
+        50% {background:#0e6179;} */
+        
+        /* 70% {background: #3d0760;} */
+        35% {background:#5d9808;}
+        50% {background: #2f8418;}
+        /* 90% {background: #bc708b;}
+        100% {background: #cf4f74;} */
+        60% {background: #0a5d25;}
+        70% {background: #2f8418;}
+        80% {background:#5d9808;}
+        90% {background: #66b42c;}
+        100% {background: #3cbd17;}
+}
+body {
+    background: url('../images/3.jpg');
+    height: 100%;
+    background-size: cover;
+}
+#start {
+    position: center;
+}
+
+#glib {
+    color: plum;
+    font-weight: bold;
+}
+
+#options {
+    font-size: 18px;
+}
+
+.btn-outline-secondary {
+    /* background-color: #3cbd17; */
+    border-color: #40076f;
+    padding: 10px;
+    margin: 10px;
+}
+.btn-outline-secondary:hover {
+    border-color: #2f8418;
+}
+
+.btn-outline-secondary:active {
+    border-color: 0e6179;
+}
+
+#remaining {
+    font-weight: bold; 
+}
+.warning-time {
+    color: red;
+}
+
+#disappoint { 
+    color: #0e6179;
+}
+
+.img {
+    height: 200px;
+    width: 500px;
+}

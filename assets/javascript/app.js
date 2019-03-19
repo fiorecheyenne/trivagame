@@ -59,12 +59,12 @@ var quiz = {
         q2: '<img src="assets/images/santa.gif"class="img-fluid">',
         q3: '<img src="assets/images/beth.gif"class="img-fluid">',
         q4: '<img src="assets/images/son.gif"class="img-fluid">',
-        q5: '<img src="assets/images/bitch.gif" class="img img-fluid">',
-        q6: '<img src="assets/images/schwifty.gif" class="img img-fluid">',
-        q7: '<img src="assets/images/solenya.gif" class="img img-fluid">',
-        q8: '<img src="assets/images/slippery.gif"class="img img-fluid">',
-        q9: '<img src="assets/images/c137.gif" class="img img-fluid">',
-        q10: '<img src="assets/images/blitz.gif"class="img img-fluid">',
+        q5: '<img src="assets/images/bitch.gif" class="img-fluid">',
+        q6: '<img src="assets/images/schwifty.gif" class="img-fluid">',
+        q7: '<img src="assets/images/solenya.gif" class="img-fluid">',
+        q8: '<img src="assets/images/slippery.gif"class="img-fluid">',
+        q9: '<img src="assets/images/c137.gif" class="img-fluid">',
+        q10: '<img src="assets/images/blitz.gif"class="img-fluid">',
     },
 
     //reset game

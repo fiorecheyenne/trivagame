@@ -55,10 +55,10 @@ var quiz = {
     },
 
     answerImg: {
-        q1: '<img src="assets/images/anatomypk.jpg" class="img">',
-        q2: '<img src="assets/images/santa.gif"class="img">',
-        q3: '<img src="assets/images/beth.gif"class="img">',
-        q4: '<img src="assets/images/son.gif"class="img">',
+        q1: '<img src="assets/images/anatomypk.jpg" class="img-fluid">',
+        q2: '<img src="assets/images/santa.gif"class="img-fluid">',
+        q3: '<img src="assets/images/beth.gif"class="img-fluid">',
+        q4: '<img src="assets/images/son.gif"class="img-fluid">',
         q5: '<img src="assets/images/bitch.gif" class="img">',
         q6: '<img src="assets/images/schwifty.gif" class="img">',
         q7: '<img src="assets/images/solenya.gif" class="img">',
